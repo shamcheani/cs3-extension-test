@@ -1,4 +1,4 @@
-package com.example
+package com.phimmoi
 
 import com.lagradost.cloudstream3.*
 import org.jsoup.Jsoup
