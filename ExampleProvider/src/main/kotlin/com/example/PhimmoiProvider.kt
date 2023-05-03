@@ -1,10 +1,9 @@
 package com.example
 
 import com.lagradost.cloudstream3.*
-import com.lagradost.cloudstream3.ui.home.ParentItemAdapter
 import org.jsoup.Jsoup
 
-class ExampleProvider : MainAPI() { // all providers must be an instance of MainAPI
+class PhimmoiProvider : MainAPI() { // all providers must be an instance of MainAPI
     override var mainUrl = "https://phimmoichillc.net/"
     override var name = "Phimmoi"
     override val supportedTypes = setOf(TvType.Movie)
