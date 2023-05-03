@@ -1,0 +1,46 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "fileSize": 36720,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "LoklokProvider",
+        "description": "#1 best extension in VN",
+        "url": "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/LoklokProvider.cs3",
+        "name": "LoklokProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "fileSize": 5519,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "PhimmoiProvider",
+        "description": "#1 best extension in VN",
+        "url": "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/PhimmoiProvider.cs3",
+        "name": "PhimmoiProvider"
+    }
+]
